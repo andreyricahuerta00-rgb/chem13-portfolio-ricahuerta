@@ -1,0 +1,16 @@
+AI Use Disclosure
+AI Tools Used: Google AI Overview, Claude, and ChatGPT
+1. Cubane
+Google AI Overview: Used to accurately define Cubane’s structure/identity, relevant properties, an amazing or significant feature, uses/value, risks/safety, and a chemical engineering connection. 
+Claude: Used to create a prompt to be used by ChatGPT for the image creation.
+ChatGPT: Used to create the infographic.
+2. Adamantane
+Google AI Overview: Used to accurately define Cubane’s structure/identity, relevant properties, an amazing or significant feature, uses/value, risks/safety, and a chemical engineering connection. 
+Claude: Used to create a prompt to be used by ChatGPT for the image creation.
+ChatGPT: Used to create the infographic.
+3. Ibuprofen
+Google AI Overview: Used to accurately define Cubane’s structure/identity, relevant properties, an amazing or significant feature, uses/value, risks/safety, and a chemical engineering connection. 
+Claude: Used to create a prompt to be used by ChatGPT for the image creation.
+ChatGPT: Used to create the infographic.
+
+ 
