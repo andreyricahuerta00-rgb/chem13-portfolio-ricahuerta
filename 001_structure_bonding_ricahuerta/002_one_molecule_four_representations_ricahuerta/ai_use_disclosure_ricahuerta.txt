@@ -1,0 +1,4 @@
+AI tool used: Claude (Anthropic)
+Used for: explaining the activity workflow, GitHub folder setup,
+
+Ketcher drawing tips, and a reference table of condensed formulas that I checked against my own drawings. All Lewis structures and Ketcher bond-line structures were drawn by me. I verified atom count, valence, bond order, and connectivity for all 10 molecules using my own reasoning and course materials.
