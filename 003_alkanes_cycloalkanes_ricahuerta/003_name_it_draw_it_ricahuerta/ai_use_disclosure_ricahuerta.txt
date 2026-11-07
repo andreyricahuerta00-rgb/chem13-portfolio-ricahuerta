@@ -1,0 +1,22 @@
+AI USE DISCLOSURE 
+
+Course: CHEM 13 - LECTURE
+Assignment: Asynchronous Activity No. 3: Name it, Draw It
+Student Name: Andrey Sodsod Ricahuerta 
+
+
+1. TOOLS USED
+Tool Name: 
+- Claude (Anthropic): used for explaining the activity requirements 
+- The Alkane (thealkane.com): used to check Part A names and to build and back-check Part B structures.
+Citation: The Alkane. (n.d.). The Alkane: IUPAC name generator. Retrieved November 6, 2026, from https://thealkane.com/
+- Canva: used to build the card layout and numbered parent images.
+
+2. SPECIFIC APPLICATIONS AND WORKFLOW
+I utilized Claude as a learning and software support tool to improve my ability to perform in this course for the following tasks: 
+- Understanding the Required: I used Claude to clarify the tasks I need to complete for this activity. 
+- Software Guidance: I used Claude to help me navigate through The Alkane website. 
+
+3. INDEPENDENT VERIFICATION & ETHICAL COMPLIANCE 
+
+I independently carried out all of the tasks and learning essential to Organic Chemistry and to the field of Chemical Engineering. Although several tools were used as mentioned above, I thoroughly evaluated all the outputs passed.
